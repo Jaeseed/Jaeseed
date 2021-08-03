@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jaes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeseed)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeseed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jaeseed/Jaeseed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
