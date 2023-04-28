@@ -1,10 +1,8 @@
 ### Hi there 👋
 [![Jaes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeseed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zistor)](https://solved.ac/zistor/)
 <!--
 **Jaeseed/Jaeseed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zistor)](https://solved.ac/zistor/)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zistor})](https://solved.ac/{zistor})
 
 Here are some ideas to get you started:
 
